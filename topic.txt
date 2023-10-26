@@ -1,0 +1,35 @@
+topic 
+member names
+company name
+reliance grps
+grp no 6
+roll no
+
+22
+39
+20
+43
+
+
+next slide
+introduction
+info about companies in pointers
+
+3
+rel fresh X
+-------------
+rel mart
+rel power
+rel infra
+rel digital
+-------------
+istore
+
+4 business unit
+many more
+
+
+
+
+
+
